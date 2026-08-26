@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+/*
+ * Saddle & Hide design system.
+ *
+ * Colours are sampled from the catalogue's own photography rather than invented:
+ * the near-black of the stained hardwood, the saddle and tan of the leathers, the
+ * brass of the nailhead trim, and the warm paper the catalogue was printed on.
+ * Product photography sits on pure white because the studio backdrop is white and
+ * several pieces (ivory, white croc) would otherwise show a visible edge.
+ */
+@theme {
+  --color-ink: #17100c;
+  --color-espresso: #2b1d15;
+  --color-bark: #4a3527;
+  --color-saddle: #8b5e3c;
+  --color-tan: #c4a175;
+  --color-brass: #a8823f;
+  --color-paper: #f7f4f0;
+  --color-bone: #ebe3d9;
+  --color-studio: #ffffff;
+
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+
+  --tracking-wide-caps: 0.14em;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    letter-spacing: -0.01em;
+  }
+
+  /* The brand voice is quiet, so focus states carry the brass instead of blue. */
+  :focus-visible {
+    outline: 2px solid var(--color-brass);
+    outline-offset: 3px;
+  }
+}
+
+@utility eyebrow {
+  font-size: 0.6875rem;
+  letter-spacing: var(--tracking-wide-caps);
+  text-transform: uppercase;
+  color: color-mix(in oklab, var(--color-bark) 75%, transparent);
+}
