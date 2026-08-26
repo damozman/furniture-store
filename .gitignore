@@ -1,0 +1,28 @@
+﻿# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.env*
+web/.env.local
+web/.vercel
+web/*.tsbuildinfo
+web/next-env.d.ts
+
+# Python / data side
+data/.venv/
+data/__pycache__/
+data/*.pyc
+data/.pytest_cache/
+data/out/
+data/.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.log
+
+# Claude local stuff (remove this line later if you want to keep it)
+.claude/
