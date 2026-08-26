@@ -1,0 +1,2385 @@
+[
+  {
+    "page": 1,
+    "products": [],
+    "editorial": [
+      {
+        "file": "editorial/p01-x35.png",
+        "w": 4265,
+        "h": 4752
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "products": [
+      {
+        "name": "Table of Contents",
+        "variant": "Bar Stool.................. 3-26, Dining Chair ......... 26-34, Accent Chair.......... 34-41, Office Chair.............41-42, Sofa.............................. 43, Boot Jack & Pet Bed.....44, Ottoman..................45-46, Superior quality is the benchmark of our business., Our furniture artisans hand craft each piece to the, highest industry standard. Solid mahogany wood,, beautiful drum dyed leather, and exquisit upholstery, options create the perfect marriage for that one of a, kind signature piece., At Texas Bar Stool, we showcase luxurious western and, traditional furniutre at its finest with remarkable, pricing. We invite you to fall in love!, Family owned and operated, we invite your family to, visit ours.",
+        "sku": null,
+        "dimensions": null,
+        "page": 2,
+        "flags": [
+          "missing-sku"
+        ],
+        "image": {
+          "file": "product/p02-x11.png",
+          "w": 900,
+          "h": 1200
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 3,
+    "products": [],
+    "editorial": [
+      {
+        "file": "editorial/p03-x9.png",
+        "w": 2550,
+        "h": 3300
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "products": [
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Tufted & Diamond Back",
+        "sku": "30103099",
+        "dimensions": null,
+        "page": 4,
+        "flags": [],
+        "image": {
+          "file": "product/p04-x10.png",
+          "w": 972,
+          "h": 1296
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p04-x9.png",
+        "w": 640,
+        "h": 640
+      },
+      {
+        "file": "editorial/p04-x11.png",
+        "w": 973,
+        "h": 1297
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "products": [
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "White Crocodile Yolk",
+        "sku": "30103005",
+        "dimensions": "Counter: H44 W27 D27, / SH30 SW 20 SD20, AH40 AW27",
+        "page": 5,
+        "flags": [],
+        "image": {
+          "file": "product/p05-x29.png",
+          "w": 1413,
+          "h": 1413
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Brown Crocodile Yolk",
+        "sku": "30103004",
+        "dimensions": "Bar: H40 W27 D27, / SH26 SW 20 SD20, AH36 AW27",
+        "page": 5,
+        "flags": [],
+        "image": {
+          "file": "product/p05-x31.png",
+          "w": 1691,
+          "h": 2032
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p05-x28.png",
+        "w": 1999,
+        "h": 1999
+      },
+      {
+        "file": "editorial/p05-x30.png",
+        "w": 1528,
+        "h": 1528
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "products": [
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Medium Tufted Brown",
+        "sku": "30103015",
+        "dimensions": null,
+        "page": 6,
+        "flags": [],
+        "image": {
+          "file": "product/p06-x30.png",
+          "w": 1256,
+          "h": 1256
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Dark Tufted Brown",
+        "sku": "30102106",
+        "dimensions": "Bar: H40 W27 D27. / SH26 SW 20 SD20, AH36 AW27",
+        "page": 6,
+        "flags": [],
+        "image": {
+          "file": "product/p06-x31.png",
+          "w": 1409,
+          "h": 1409
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Light Caramel Tufted",
+        "sku": "30102020",
+        "dimensions": "Counter: H44 W27 D27, / SH30 SW 20 SD20, AH40 AW27",
+        "page": 6,
+        "flags": [],
+        "image": {
+          "file": "product/p06-x28.png",
+          "w": 1800,
+          "h": 1800
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p06-x29.png",
+        "w": 2681,
+        "h": 2681
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "products": [
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Tufted Blue",
+        "sku": "30103015",
+        "dimensions": null,
+        "page": 7,
+        "flags": [],
+        "image": {
+          "file": "product/p07-x31.png",
+          "w": 2084,
+          "h": 2084
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Tufted Green",
+        "sku": "30102049",
+        "dimensions": "Counter: H44 W27 D27, / SH30 SW 20 SD20, AH40 AW27",
+        "page": 7,
+        "flags": [],
+        "image": {
+          "file": "product/p07-x32.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Green Gray Tufted",
+        "sku": "3010350",
+        "dimensions": "Bar: H40 W27 D27, / SH26 SW 20 SD20, AH36 AW27",
+        "page": 7,
+        "flags": [
+          "sku-not-8-digits:3010350"
+        ],
+        "image": {
+          "file": "product/p07-x33.png",
+          "w": 1817,
+          "h": 1817
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p07-x30.png",
+        "w": 3024,
+        "h": 4032
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "products": [
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Tufted & Axis Back",
+        "sku": "30101130",
+        "dimensions": null,
+        "page": 8,
+        "flags": [],
+        "image": {
+          "file": "product/p08-x11.png",
+          "w": 984,
+          "h": 1312
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Tufted Corset White Croc",
+        "sku": "30101389",
+        "dimensions": null,
+        "page": 8,
+        "flags": [],
+        "image": {
+          "file": "product/p08-x10.png",
+          "w": 1080,
+          "h": 1350
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Turquoise Croc Yolk",
+        "sku": "30101637",
+        "dimensions": "Counter: H44 W27 D27, / SH30 SW 20 SD20, AH40 AW27",
+        "page": 8,
+        "flags": [],
+        "image": {
+          "file": "product/p08-x12.png",
+          "w": 1048,
+          "h": 1397
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Brindle Brown Yolk, Checkered &Half Back Hide",
+        "sku": "30102135",
+        "dimensions": "Bar: H40 W27 D27, / SH26 SW 20 SD20, AH36 AW27",
+        "page": 8,
+        "flags": [],
+        "image": {
+          "file": "product/p08-x9.png",
+          "w": 1600,
+          "h": 1600
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 9,
+    "products": [
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Brown Hide Yolk",
+        "sku": "30102123",
+        "dimensions": null,
+        "page": 9,
+        "flags": [],
+        "image": {
+          "file": "product/p09-x39.png",
+          "w": 987,
+          "h": 1316
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Brindle Yolk, Brown Leather",
+        "sku": "30103125",
+        "dimensions": null,
+        "page": 9,
+        "flags": [],
+        "image": {
+          "file": "product/p09-x38.png",
+          "w": 1422,
+          "h": 1422
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "Brown Hide Yolk",
+        "sku": "30101133",
+        "dimensions": "Bar: H40 W27 D27. / SH26 SW 20 SD20, AH36 AW27",
+        "page": 9,
+        "flags": [],
+        "image": {
+          "file": "product/p09-x36.png",
+          "w": 992,
+          "h": 1322
+        }
+      },
+      {
+        "name": "Trophy Bar Stool",
+        "variant": "White Hide Yolk",
+        "sku": "30101124",
+        "dimensions": "Counter: H44 W27 D27, / SH30 SW 20 SD20, AH40 AW27",
+        "page": 9,
+        "flags": [],
+        "image": {
+          "file": "product/p09-x37.png",
+          "w": 1008,
+          "h": 1344
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 10,
+    "products": [
+      {
+        "name": "Wilson Bar Stool",
+        "variant": "Tufted Brown",
+        "sku": "30110048",
+        "dimensions": null,
+        "page": 10,
+        "flags": [],
+        "image": {
+          "file": "product/p10-x12.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Denver Bar Stool",
+        "variant": "Taupe Leather",
+        "sku": "10242244",
+        "dimensions": "Bar: H39 W20 D21 SH29 SD 16",
+        "page": 10,
+        "flags": [],
+        "image": {
+          "file": "product/p10-x9.png",
+          "w": 1888,
+          "h": 1888
+        }
+      },
+      {
+        "name": "Denver Bar Stool",
+        "variant": "Brown Leather, Hide Back",
+        "sku": "10242243",
+        "dimensions": "Counter: H35 W20 D21 SH25 SD 16",
+        "page": 10,
+        "flags": [],
+        "image": {
+          "file": "product/p10-x10.png",
+          "w": 1790,
+          "h": 1790
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p10-x11.png",
+        "w": 1200,
+        "h": 1650
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "products": [
+      {
+        "name": "Wilson Bar Stool",
+        "variant": "Brown Croc",
+        "sku": "30110239",
+        "dimensions": null,
+        "page": 11,
+        "flags": [],
+        "image": {
+          "file": "product/p11-x11.png",
+          "w": 1391,
+          "h": 1391
+        }
+      },
+      {
+        "name": "Wilson Bar Stool",
+        "variant": "White Croc",
+        "sku": "30110240",
+        "dimensions": null,
+        "page": 11,
+        "flags": [],
+        "image": {
+          "file": "product/p11-x10.png",
+          "w": 2180,
+          "h": 2180
+        }
+      },
+      {
+        "name": "Wilson Bar Stool",
+        "variant": "Copper Embossed",
+        "sku": "30110238",
+        "dimensions": "Counter: H40 W20 D20, SH26",
+        "page": 11,
+        "flags": [],
+        "image": {
+          "file": "product/p11-x12.png",
+          "w": 2167,
+          "h": 2167
+        }
+      },
+      {
+        "name": "Wilson Bar Stool",
+        "variant": "Turquoise Croc",
+        "sku": "30110241",
+        "dimensions": "Bar: H45 W20 D20, SH30",
+        "page": 11,
+        "flags": [],
+        "image": {
+          "file": "product/p11-x9.png",
+          "w": 1800,
+          "h": 1800
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 12,
+    "products": [
+      {
+        "name": "Wilson Bar Stool",
+        "variant": "Brown Diamond",
+        "sku": "30110099",
+        "dimensions": "Bar: H45 W20 D20, SH30",
+        "page": 12,
+        "flags": [],
+        "image": {
+          "file": "product/p12-x9.png",
+          "w": 1800,
+          "h": 1800
+        }
+      },
+      {
+        "name": "Wilson Bar Stool",
+        "variant": "Turquoise Leaf",
+        "sku": "30110237",
+        "dimensions": "Counter: H40 W20 D20, SH26",
+        "page": 12,
+        "flags": [],
+        "image": {
+          "file": "product/p12-x12.png",
+          "w": 1106,
+          "h": 1475
+        }
+      },
+      {
+        "name": "Bethany Barstool Armless",
+        "variant": "White Croc",
+        "sku": "30311003",
+        "dimensions": "Bar: H47.5 W23 D24, SH30",
+        "page": 12,
+        "flags": [],
+        "image": {
+          "file": "product/p12-x10.png",
+          "w": 1003,
+          "h": 1338
+        }
+      },
+      {
+        "name": "Bethany Armless Bar Stool",
+        "variant": "Brown Croc",
+        "sku": "30311002",
+        "dimensions": "Counter: H43.5 W20 24, SH 26",
+        "page": 12,
+        "flags": [],
+        "image": {
+          "file": "product/p12-x11.png",
+          "w": 1775,
+          "h": 1775
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 13,
+    "products": [
+      {
+        "name": "Bethany Bar Stool",
+        "variant": "BS-310 Brown Croc",
+        "sku": "30310222",
+        "dimensions": "Bar: H47.5 W23 D24, SH30, AH39",
+        "page": 13,
+        "flags": [],
+        "image": {
+          "file": "product/p13-x12.png",
+          "w": 1006,
+          "h": 1341
+        }
+      },
+      {
+        "name": "Bethany Bar Stool",
+        "variant": "White Croc",
+        "sku": "30310003",
+        "dimensions": "Counter: H43.5 W23 24, SH26, AH35",
+        "page": 13,
+        "flags": [],
+        "image": {
+          "file": "product/p13-x11.png",
+          "w": 1809,
+          "h": 1809
+        }
+      },
+      {
+        "name": "Bethany Bar Stool",
+        "variant": "Brown Hide",
+        "sku": "30310123",
+        "dimensions": null,
+        "page": 13,
+        "flags": [],
+        "image": {
+          "file": "product/p13-x9.png",
+          "w": 1372,
+          "h": 1372
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p13-x10.png",
+        "w": 1588,
+        "h": 1166
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "products": [
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "Diamond Leather, Hide Back",
+        "sku": "30810277",
+        "dimensions": "Bar: H46 W22 D22, SH 30",
+        "page": 14,
+        "flags": [],
+        "image": {
+          "file": "product/p14-x12.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "Diamond Leather, Brown Back",
+        "sku": "30810276",
+        "dimensions": "Counter: H42 W22 D22, SH 36",
+        "page": 14,
+        "flags": [],
+        "image": {
+          "file": "product/p14-x14.png",
+          "w": 2016,
+          "h": 1359
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p14-x11.png",
+        "w": 1800,
+        "h": 1800
+      },
+      {
+        "file": "editorial/p14-x13.png",
+        "w": 3035,
+        "h": 2025
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "products": [
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "Valentina Dark Toffee",
+        "sku": "30810638",
+        "dimensions": "Bar: H46 W22 D22, SH 30",
+        "page": 15,
+        "flags": [],
+        "image": {
+          "file": "product/p15-x12.png",
+          "w": 1394,
+          "h": 1394
+        }
+      },
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "White Croc",
+        "sku": "30810639",
+        "dimensions": "Counter: H42 W22 D22, SH 26",
+        "page": 15,
+        "flags": [],
+        "image": {
+          "file": "product/p15-x11.png",
+          "w": 1375,
+          "h": 1375
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p15-x9.png",
+        "w": 2141,
+        "h": 2141
+      },
+      {
+        "file": "editorial/p15-x10.png",
+        "w": 2147,
+        "h": 2147
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "products": [
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "Brown & White Floral Embossed",
+        "sku": "30810088",
+        "dimensions": null,
+        "page": 16,
+        "flags": [],
+        "image": {
+          "file": "product/p16-x11.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "White Croc",
+        "sku": "30810263",
+        "dimensions": null,
+        "page": 16,
+        "flags": [],
+        "image": {
+          "file": "product/p16-x12.png",
+          "w": 1003,
+          "h": 1338
+        }
+      },
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "Brown & Floral Turquoise Embossed",
+        "sku": "30810636",
+        "dimensions": "Bar: H46 W22 D22, SH 30",
+        "page": 16,
+        "flags": [],
+        "image": {
+          "file": "product/p16-x10.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Kennedy Bar Stool",
+        "variant": "Brown & Turquoise Croc Embossed",
+        "sku": "30810637",
+        "dimensions": "Counter: H42 W22 D22, SH26",
+        "page": 16,
+        "flags": [],
+        "image": {
+          "file": "product/p16-x9.png",
+          "w": 1600,
+          "h": 1600
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 17,
+    "products": [
+      {
+        "name": "Saddle Stool",
+        "variant": "Light Tufted Brown",
+        "sku": "30400048",
+        "dimensions": "Bar: H30 W19 D15.5",
+        "page": 17,
+        "flags": [],
+        "image": {
+          "file": "product/p17-x9.png",
+          "w": 2000,
+          "h": 2000
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Copper Floral",
+        "sku": "30400240",
+        "dimensions": "Counter: H26 W19 D15.5",
+        "page": 17,
+        "flags": [],
+        "image": {
+          "file": "product/p17-x10.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Brown Leather",
+        "sku": "30400046",
+        "dimensions": null,
+        "page": 17,
+        "flags": [],
+        "image": {
+          "file": "product/p17-x11.png",
+          "w": 1080,
+          "h": 1350
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p17-x12.png",
+        "w": 640,
+        "h": 640
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "products": [
+      {
+        "name": "Saddle Stool",
+        "variant": "White Croc",
+        "sku": "30401002",
+        "dimensions": "Bar: H30 W19 D15.5",
+        "page": 18,
+        "flags": [],
+        "image": {
+          "file": "product/p18-x11.png",
+          "w": 2164,
+          "h": 2164
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Brown Crocodile Embossed",
+        "sku": "30400002",
+        "dimensions": "Counter: H26 W19 D15.5",
+        "page": 18,
+        "flags": [],
+        "image": {
+          "file": "product/p18-x10.png",
+          "w": 1080,
+          "h": 1350
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p18-x9.png",
+        "w": 2048,
+        "h": 2688
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "products": [
+      {
+        "name": "Saddle Stool",
+        "variant": "Blue Crocodile Embossed",
+        "sku": "30400243",
+        "dimensions": null,
+        "page": 19,
+        "flags": [],
+        "image": {
+          "file": "product/p19-x9.png",
+          "w": 2000,
+          "h": 2000
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Red Crocodile Embossed",
+        "sku": "30400235",
+        "dimensions": null,
+        "page": 19,
+        "flags": [],
+        "image": {
+          "file": "product/p19-x10.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Brown Hide",
+        "sku": "30400123",
+        "dimensions": "Bar: H30 W19 D15.5",
+        "page": 19,
+        "flags": [],
+        "image": {
+          "file": "product/p19-x11.png",
+          "w": 1080,
+          "h": 1350
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Brown & White Hide",
+        "sku": "30400124",
+        "dimensions": "Counter: H26 W19 D15.5",
+        "page": 19,
+        "flags": [],
+        "image": {
+          "file": "product/p19-x12.png",
+          "w": 1080,
+          "h": 1350
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 20,
+    "products": [
+      {
+        "name": "Saddle Stool Floral Ivory",
+        "variant": null,
+        "sku": "30400238",
+        "dimensions": null,
+        "page": 20,
+        "flags": [],
+        "image": {
+          "file": "product/p20-x11.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Diamond Quilted",
+        "sku": "30400099",
+        "dimensions": null,
+        "page": 20,
+        "flags": [],
+        "image": {
+          "file": "product/p20-x12.png",
+          "w": 2067,
+          "h": 2067
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Ivory Cowboy",
+        "sku": "30400239",
+        "dimensions": "Bar: H30 W19 D15.5",
+        "page": 20,
+        "flags": [],
+        "image": {
+          "file": "product/p20-x10.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Valentina Tawny",
+        "sku": "30400088",
+        "dimensions": "Counter: H26 W19 D15.5",
+        "page": 20,
+        "flags": [],
+        "image": {
+          "file": "product/p20-x9.png",
+          "w": 2000,
+          "h": 2000
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 21,
+    "products": [
+      {
+        "name": "Saddle Stool",
+        "variant": "Cowboy Copper",
+        "sku": "30400240",
+        "dimensions": null,
+        "page": 21,
+        "flags": [],
+        "image": {
+          "file": "product/p21-x9.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Cowboy Turquoise",
+        "sku": "30400236",
+        "dimensions": null,
+        "page": 21,
+        "flags": [],
+        "image": {
+          "file": "product/p21-x12.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Red Floral Embossed",
+        "sku": "30400234",
+        "dimensions": "Counter: H26 W19 D15.5",
+        "page": 21,
+        "flags": [],
+        "image": {
+          "file": "product/p21-x10.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Floral Turquoise",
+        "sku": "30400237",
+        "dimensions": "Bar: H30 W19 D15.5",
+        "page": 21,
+        "flags": [],
+        "image": {
+          "file": "product/p21-x11.png",
+          "w": 1600,
+          "h": 1600
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 22,
+    "products": [
+      {
+        "name": "Saddle Stool",
+        "variant": "Blue Leather",
+        "sku": "30400242",
+        "dimensions": null,
+        "page": 22,
+        "flags": [],
+        "image": {
+          "file": "product/p22-x12.png",
+          "w": 1625,
+          "h": 1625
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Loredo Brown",
+        "sku": "30400241",
+        "dimensions": null,
+        "page": 22,
+        "flags": [],
+        "image": {
+          "file": "product/p22-x11.png",
+          "w": 2000,
+          "h": 2000
+        }
+      },
+      {
+        "name": "Saddle Stool",
+        "variant": "Turquoise Croc",
+        "sku": "30400137",
+        "dimensions": "Bar: H30 W19 D15.5",
+        "page": 22,
+        "flags": [],
+        "image": {
+          "file": "product/p22-x10.png",
+          "w": 2000,
+          "h": 2000
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p22-x9.png",
+        "w": 2816,
+        "h": 1536
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "products": [
+      {
+        "name": "Smith Bar Stool",
+        "variant": "Tufted Brown Leather",
+        "sku": "30450001",
+        "dimensions": null,
+        "page": 23,
+        "flags": [],
+        "image": {
+          "file": "product/p23-x11.png",
+          "w": 2177,
+          "h": 2177
+        }
+      },
+      {
+        "name": "Smith Bar Stool",
+        "variant": "Tufted & Brown Crocodile",
+        "sku": "304500003",
+        "dimensions": null,
+        "page": 23,
+        "flags": [
+          "sku-not-8-digits:304500003"
+        ],
+        "image": {
+          "file": "product/p23-x10.png",
+          "w": 2284,
+          "h": 2284
+        }
+      },
+      {
+        "name": "Smith Bar Stool",
+        "variant": "Tufted & White Crocodile",
+        "sku": "30190002",
+        "dimensions": "Bar: H29 W19 D15",
+        "page": 23,
+        "flags": [],
+        "image": {
+          "file": "product/p23-x12.png",
+          "w": 589,
+          "h": 1280
+        }
+      },
+      {
+        "name": "Smith Bar Stool",
+        "variant": "Tufted & Hide",
+        "sku": "30190222",
+        "dimensions": "Counter: H25 W19 D15",
+        "page": 23,
+        "flags": [],
+        "image": {
+          "file": "product/p23-x14.png",
+          "w": 589,
+          "h": 1280
+        }
+      },
+      {
+        "name": "Smith Bar Stool",
+        "variant": "Tufted & Valentina Dark Toffee",
+        "sku": "30450002",
+        "dimensions": null,
+        "page": 23,
+        "flags": [],
+        "image": {
+          "file": "product/p23-x9.png",
+          "w": 1400,
+          "h": 1400
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 24,
+    "products": [
+      {
+        "name": "George Bar Stool",
+        "variant": "Gray Linen, Brown Finish",
+        "sku": "30268352",
+        "dimensions": "Bar: H30 W18 D18",
+        "page": 24,
+        "flags": [],
+        "image": {
+          "file": "product/p24-x9.png",
+          "w": 1792,
+          "h": 1792
+        }
+      },
+      {
+        "name": "George Bar Stool",
+        "variant": "Brown Leather & Finish",
+        "sku": "30268342",
+        "dimensions": "Counter: H26 W18 D18",
+        "page": 24,
+        "flags": [],
+        "image": {
+          "file": "product/p24-x10.png",
+          "w": 1792,
+          "h": 1792
+        }
+      },
+      {
+        "name": "Lincoln Bar Stool",
+        "variant": "Brown Leather & Hide Studs",
+        "sku": "30180123",
+        "dimensions": "Bar: H30 W18 D18",
+        "page": 24,
+        "flags": [],
+        "image": {
+          "file": "product/p24-x13.png",
+          "w": 929,
+          "h": 1195
+        }
+      },
+      {
+        "name": "Lincoln Bar Stool",
+        "variant": "Light Brown & Hide Studs, Green Croc",
+        "sku": "30180637",
+        "dimensions": null,
+        "page": 24,
+        "flags": [],
+        "image": {
+          "file": "product/p24-x11.png",
+          "w": 635,
+          "h": 972
+        }
+      },
+      {
+        "name": "Lincoln Bar Stool",
+        "variant": null,
+        "sku": null,
+        "dimensions": null,
+        "page": 24,
+        "flags": [
+          "missing-sku"
+        ],
+        "image": {
+          "file": "product/p24-x15.png",
+          "w": 681,
+          "h": 975
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 25,
+    "products": [
+      {
+        "name": "Marlo Stool",
+        "variant": "White Croc & Brown Leather",
+        "sku": "30217002",
+        "dimensions": null,
+        "page": 25,
+        "flags": [],
+        "image": {
+          "file": "product/p25-x12.png",
+          "w": 1782,
+          "h": 2672
+        }
+      },
+      {
+        "name": "Marlo Stool",
+        "variant": "Brindle Hide",
+        "sku": "30217165",
+        "dimensions": null,
+        "page": 25,
+        "flags": [],
+        "image": {
+          "file": "product/p25-x11.png",
+          "w": 1779,
+          "h": 1779
+        }
+      },
+      {
+        "name": "Marlo Stool",
+        "variant": "Gray Leather White Finish",
+        "sku": "30408019",
+        "dimensions": "Counter: H26 W19 D15",
+        "page": 25,
+        "flags": [],
+        "image": {
+          "file": "product/p25-x9.png",
+          "w": 2092,
+          "h": 2092
+        }
+      },
+      {
+        "name": "Marlo Stool",
+        "variant": "Brown Hide",
+        "sku": "30216183",
+        "dimensions": "Bar: H30 W19 D15",
+        "page": 25,
+        "flags": [],
+        "image": {
+          "file": "product/p25-x10.png",
+          "w": 1776,
+          "h": 1776
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 26,
+    "products": [
+      {
+        "name": "Marlo Stool",
+        "variant": "Brown Trim: Black & White Hide",
+        "sku": "30217166",
+        "dimensions": "Bar: H30 W19 D15",
+        "page": 26,
+        "flags": [],
+        "image": {
+          "file": "product/p26-x10.png",
+          "w": 1759,
+          "h": 1759
+        }
+      },
+      {
+        "name": "Dakota Dining Chair",
+        "variant": "Dark Leather, Hide Back",
+        "sku": "10836088",
+        "dimensions": "H44 W19 D22 SH21 SD20",
+        "page": 26,
+        "flags": [],
+        "image": {
+          "file": "product/p26-x9.png",
+          "w": 1921,
+          "h": 1921
+        }
+      },
+      {
+        "name": "Celine Bar Stool",
+        "variant": "Gray Fabric",
+        "sku": "30430002",
+        "dimensions": null,
+        "page": 26,
+        "flags": [],
+        "image": {
+          "file": "product/p26-x12.png",
+          "w": 1384,
+          "h": 1384
+        }
+      },
+      {
+        "name": "Celine Chair",
+        "variant": "Brown Leather",
+        "sku": "10430001",
+        "dimensions": null,
+        "page": 26,
+        "flags": [],
+        "image": {
+          "file": "product/p26-x11.png",
+          "w": 1600,
+          "h": 1600
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 27,
+    "products": [
+      {
+        "name": "Brooke Dining Chair",
+        "variant": "Light Brown",
+        "sku": "10220787",
+        "dimensions": null,
+        "page": 27,
+        "flags": [],
+        "image": {
+          "file": "product/p27-x12.png",
+          "w": 1994,
+          "h": 1994
+        }
+      },
+      {
+        "name": "Brooke Dining Chair",
+        "variant": "White Leather, Hide Back",
+        "sku": "10220791",
+        "dimensions": null,
+        "page": 27,
+        "flags": [],
+        "image": {
+          "file": "product/p27-x11.png",
+          "w": 2078,
+          "h": 2078
+        }
+      },
+      {
+        "name": "Brooke Dining Chair",
+        "variant": "Brown Leather, Hide Back",
+        "sku": "10220789",
+        "dimensions": "H37 W22 D22 SH21 SD19",
+        "page": 27,
+        "flags": [],
+        "image": {
+          "file": "product/p27-x10.png",
+          "w": 1488,
+          "h": 1488
+        }
+      },
+      {
+        "name": "Brooke Dining Chair",
+        "variant": "Black Leather, Hide Back",
+        "sku": "10220790",
+        "dimensions": "H37 W22 D22 SH21 SD19",
+        "page": 27,
+        "flags": [],
+        "image": {
+          "file": "product/p27-x9.png",
+          "w": 1912,
+          "h": 1912
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 28,
+    "products": [
+      {
+        "name": "Lynn Dining Chair",
+        "variant": "Turquoise Croc",
+        "sku": "11507005",
+        "dimensions": "H44 W20 D21 SH20",
+        "page": 28,
+        "flags": [],
+        "image": {
+          "file": "product/p28-x10.png",
+          "w": 1977,
+          "h": 1977
+        }
+      },
+      {
+        "name": "Lynn Dining Chair",
+        "variant": "Python Copper",
+        "sku": "11507004",
+        "dimensions": "H44 W20 D21 SH20",
+        "page": 28,
+        "flags": [],
+        "image": {
+          "file": "product/p28-x9.png",
+          "w": 2026,
+          "h": 2026
+        }
+      },
+      {
+        "name": "Serena Dining Chair",
+        "variant": "Dark Wood Black Leather",
+        "sku": "11646222",
+        "dimensions": "H32 W22 D24",
+        "page": 28,
+        "flags": [],
+        "image": {
+          "file": "product/p28-x11.png",
+          "w": 1200,
+          "h": 1200
+        }
+      },
+      {
+        "name": "Serena Dining Chair",
+        "variant": "White Oak Wood White Leather",
+        "sku": "11646583",
+        "dimensions": "H32 W22 D24",
+        "page": 28,
+        "flags": [],
+        "image": {
+          "file": "product/p28-x12.png",
+          "w": 1200,
+          "h": 1200
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 29,
+    "products": [
+      {
+        "name": "Lynn Dining Chair",
+        "variant": "Brown Croc",
+        "sku": "11507002",
+        "dimensions": "H44 W20 D21 SH20",
+        "page": 29,
+        "flags": [],
+        "image": {
+          "file": "product/p29-x9.png",
+          "w": 1353,
+          "h": 1353
+        }
+      },
+      {
+        "name": "Lynn Dining Chair",
+        "variant": "White Croc",
+        "sku": "11507003",
+        "dimensions": null,
+        "page": 29,
+        "flags": [],
+        "image": {
+          "file": "product/p29-x11.png",
+          "w": 1344,
+          "h": 1344
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p29-x10.png",
+        "w": 1815,
+        "h": 2420
+      },
+      {
+        "file": "editorial/p29-x12.png",
+        "w": 1738,
+        "h": 1738
+      }
+    ]
+  },
+  {
+    "page": 30,
+    "products": [
+      {
+        "name": "Grace Dining Chair",
+        "variant": "Brown Croc",
+        "sku": "11308002",
+        "dimensions": null,
+        "page": 30,
+        "flags": [],
+        "image": {
+          "file": "product/p30-x11.png",
+          "w": 1811,
+          "h": 1811
+        }
+      },
+      {
+        "name": "Grace Dining Chair",
+        "variant": "White Croc",
+        "sku": "11308003",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 30,
+        "flags": [],
+        "image": {
+          "file": "product/p30-x9.png",
+          "w": 1882,
+          "h": 1882
+        }
+      },
+      {
+        "name": "Grace Dining Chair",
+        "variant": "Snake Embossed Front and Back",
+        "sku": "11307622",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 30,
+        "flags": [],
+        "image": {
+          "file": "product/p30-x10.png",
+          "w": 1600,
+          "h": 1600
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p30-x12.png",
+        "w": 1777,
+        "h": 1777
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "products": [
+      {
+        "name": "Grace Arm Chair",
+        "variant": "White Croc",
+        "sku": "10307003",
+        "dimensions": "H47.5 W22.5 D25 SD 18 SH20 AH25.5",
+        "page": 31,
+        "flags": [],
+        "image": {
+          "file": "product/p31-x12.png",
+          "w": 1269,
+          "h": 1269
+        }
+      },
+      {
+        "name": "Maverick Dining Chair",
+        "variant": "Brown Croc Front Cowhide Back",
+        "sku": "11207003",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 31,
+        "flags": [],
+        "image": {
+          "file": "product/p31-x11.png",
+          "w": 2113,
+          "h": 2113
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p31-x9.png",
+        "w": 2420,
+        "h": 3226
+      },
+      {
+        "file": "editorial/p31-x10.png",
+        "w": 2113,
+        "h": 2113
+      }
+    ]
+  },
+  {
+    "page": 32,
+    "products": [
+      {
+        "name": "Maverick Dining Chair",
+        "variant": "Brown Croc Front & Damask Print Hide Back",
+        "sku": "11207007",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 32,
+        "flags": [],
+        "image": {
+          "file": "product/p32-x9.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Grace Dining Chair",
+        "variant": "Dark Croc Front Axis Hide Back",
+        "sku": "11307130",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 32,
+        "flags": [],
+        "image": {
+          "file": "product/p32-x14.png",
+          "w": 1078,
+          "h": 1438
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p32-x13.png",
+        "w": 2006,
+        "h": 2006
+      },
+      {
+        "file": "editorial/p32-x17.png",
+        "w": 997,
+        "h": 1329
+      }
+    ]
+  },
+  {
+    "page": 33,
+    "products": [
+      {
+        "name": "Grace Dining Chair",
+        "variant": "Hide Yolk Front Cowhide Back",
+        "sku": "11307698",
+        "dimensions": null,
+        "page": 33,
+        "flags": [],
+        "image": {
+          "file": "product/p33-x11.png",
+          "w": 1026,
+          "h": 1472
+        }
+      },
+      {
+        "name": "Grace Dining Chair",
+        "variant": "Verona Leather",
+        "sku": "11307724",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 33,
+        "flags": [],
+        "image": {
+          "file": "product/p33-x9.png",
+          "w": 975,
+          "h": 1300
+        }
+      },
+      {
+        "name": "Grace Dining Chair",
+        "variant": "Turquoise Croc",
+        "sku": "11307637",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 33,
+        "flags": [],
+        "image": {
+          "file": "product/p33-x15.png",
+          "w": 1600,
+          "h": 1600
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p33-x10.png",
+        "w": 975,
+        "h": 1300
+      }
+    ]
+  },
+  {
+    "page": 34,
+    "products": [
+      {
+        "name": "Maverick Dining Chair",
+        "variant": "Diamond Front Cowhide Back",
+        "sku": "11207123",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 34,
+        "flags": [],
+        "image": {
+          "file": "product/p34-x12.png",
+          "w": 1012,
+          "h": 1350
+        }
+      },
+      {
+        "name": "Grace Dining Chair",
+        "variant": "Tufted Front Cowhide Back",
+        "sku": "11307973",
+        "dimensions": "H46 W20 D20 SH19",
+        "page": 34,
+        "flags": [],
+        "image": {
+          "file": "product/p34-x9.png",
+          "w": 987,
+          "h": 1404
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p34-x10.png",
+        "w": 1107,
+        "h": 1522
+      },
+      {
+        "file": "editorial/p34-x11.png",
+        "w": 1010,
+        "h": 1347
+      }
+    ]
+  },
+  {
+    "page": 35,
+    "products": [
+      {
+        "name": "Antoinette Accent Chair",
+        "variant": "Hide Front. Brown Croc Back",
+        "sku": "50701835",
+        "dimensions": null,
+        "page": 35,
+        "flags": [],
+        "image": {
+          "file": "product/p35-x9.png",
+          "w": 1800,
+          "h": 1800
+        }
+      },
+      {
+        "name": "Antoinette Accent Chair",
+        "variant": "Brown Croc Front, Hide Back",
+        "sku": "50701836",
+        "dimensions": null,
+        "page": 35,
+        "flags": [],
+        "image": {
+          "file": "product/p35-x10.png",
+          "w": 1800,
+          "h": 1800
+        }
+      },
+      {
+        "name": "Antoinette Accent Chair",
+        "variant": "White Croc Front, Hide Back",
+        "sku": "50701003",
+        "dimensions": "H48 W30 D28, SH19 SD26, AH32",
+        "page": 35,
+        "flags": [],
+        "image": {
+          "file": "product/p35-x12.png",
+          "w": 1253,
+          "h": 1253
+        }
+      },
+      {
+        "name": "Antoinette Accent Chair",
+        "variant": "Diamond Front, Weave Back",
+        "sku": "50701099",
+        "dimensions": "H48 W30 D28, SH19 SD26, AH32",
+        "page": 35,
+        "flags": [],
+        "image": {
+          "file": "product/p35-x11.png",
+          "w": 1879,
+          "h": 1879
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 36,
+    "products": [
+      {
+        "name": "Stanley Accent Chair",
+        "variant": "Brown, Diamond, Flower Stitch",
+        "sku": "50213087",
+        "dimensions": "H32 W31 D31, SH19 SD25, AH25.5",
+        "page": 36,
+        "flags": [],
+        "image": {
+          "file": "product/p36-x10.png",
+          "w": 2031,
+          "h": 2031
+        }
+      },
+      {
+        "name": "Stanley Accent Chair",
+        "variant": "Black Leather, Hide",
+        "sku": "50213080",
+        "dimensions": null,
+        "page": 36,
+        "flags": [],
+        "image": {
+          "file": "product/p36-x12.png",
+          "w": 1294,
+          "h": 1294
+        }
+      },
+      {
+        "name": "Stanley Accent Chair",
+        "variant": "Brown Leather, Hide",
+        "sku": "50213099",
+        "dimensions": null,
+        "page": 36,
+        "flags": [],
+        "image": {
+          "file": "product/p36-x11.png",
+          "w": 1979,
+          "h": 1979
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p36-x9.png",
+        "w": 1970,
+        "h": 1970
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "products": [
+      {
+        "name": "Britney Accent Chair",
+        "variant": "White Croc/Hide",
+        "sku": "50763003",
+        "dimensions": null,
+        "page": 37,
+        "flags": [],
+        "image": {
+          "file": "product/p37-x12.png",
+          "w": 1864,
+          "h": 1864
+        }
+      },
+      {
+        "name": "Britney Accent Chair",
+        "variant": "Diamond/Weave",
+        "sku": "50763099",
+        "dimensions": null,
+        "page": 37,
+        "flags": [],
+        "image": {
+          "file": "product/p37-x11.png",
+          "w": 1654,
+          "h": 1654
+        }
+      },
+      {
+        "name": "Britney Accent Chair",
+        "variant": "Brown Croc/Hide",
+        "sku": "50763002",
+        "dimensions": "H44.5 W30 D35, SH23 SD26, AH25",
+        "page": 37,
+        "flags": [],
+        "image": {
+          "file": "product/p37-x9.png",
+          "w": 1796,
+          "h": 1796
+        }
+      },
+      {
+        "name": "Britney Accent Chair",
+        "variant": "Diamond Front Hide Back",
+        "sku": "50763277",
+        "dimensions": "H44.5 W30 D35, SH23 SD26, AH25",
+        "page": 37,
+        "flags": [],
+        "image": {
+          "file": "product/p37-x10.png",
+          "w": 975,
+          "h": 1300
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 38,
+    "products": [
+      {
+        "name": "Easton Accent Chair",
+        "variant": "Black Leather, Hide Back",
+        "sku": "50412788",
+        "dimensions": null,
+        "page": 38,
+        "flags": [],
+        "image": {
+          "file": "product/p38-x11.png",
+          "w": 1937,
+          "h": 1937
+        }
+      },
+      {
+        "name": "Easton Accent Chair",
+        "variant": "Caramel Leather",
+        "sku": "50412790",
+        "dimensions": null,
+        "page": 38,
+        "flags": [],
+        "image": {
+          "file": "product/p38-x12.png",
+          "w": 1931,
+          "h": 1931
+        }
+      },
+      {
+        "name": "Easton Accent Chair",
+        "variant": "Cream Leather, Hide Back",
+        "sku": "50412789",
+        "dimensions": "H31 W32 D32, SH19 SD 26.5, AH23",
+        "page": 38,
+        "flags": [],
+        "image": {
+          "file": "product/p38-x9.png",
+          "w": 1494,
+          "h": 1494
+        }
+      },
+      {
+        "name": "Easton Accent Chair",
+        "variant": "Brown Leather, Hide Back",
+        "sku": "50412791",
+        "dimensions": "H31 W32 D32, SH19 SD 26.5, AH23",
+        "page": 38,
+        "flags": [],
+        "image": {
+          "file": "product/p38-x10.png",
+          "w": 1928,
+          "h": 1928
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 39,
+    "products": [
+      {
+        "name": "Pearl Accent Chair",
+        "variant": "Brown Croc",
+        "sku": "50320002",
+        "dimensions": null,
+        "page": 39,
+        "flags": [],
+        "image": {
+          "file": "product/p39-x12.png",
+          "w": 1578,
+          "h": 1578
+        }
+      },
+      {
+        "name": "Pearl Accent Chair",
+        "variant": "White Croc",
+        "sku": "50320003",
+        "dimensions": null,
+        "page": 39,
+        "flags": [],
+        "image": {
+          "file": "product/p39-x11.png",
+          "w": 1555,
+          "h": 1555
+        }
+      },
+      {
+        "name": "Pearl Accent Chair",
+        "variant": "Axis Hide",
+        "sku": "50320130",
+        "dimensions": "H33.5 W33.5 D32, SH20.5 SD22, AH26",
+        "page": 39,
+        "flags": [],
+        "image": {
+          "file": "product/p39-x9.png",
+          "w": 1187,
+          "h": 1187
+        }
+      },
+      {
+        "name": "Pearl Accent Chair",
+        "variant": "Diamond Quilted",
+        "sku": "50320099",
+        "dimensions": "H33.5 W33.5 D32, SH20.5 SD22, AH26",
+        "page": 39,
+        "flags": [],
+        "image": {
+          "file": "product/p39-x10.png",
+          "w": 1656,
+          "h": 1656
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 40,
+    "products": [
+      {
+        "name": "Waller Accent Chair",
+        "variant": "Tufted Brown Leather/Brown Hide",
+        "sku": "50750001",
+        "dimensions": "H30 W36 D33, SH16 SD23, AH28",
+        "page": 40,
+        "flags": [],
+        "image": {
+          "file": "product/p40-x11.png",
+          "w": 1600,
+          "h": 1600
+        }
+      },
+      {
+        "name": "Waller Accent Chair",
+        "variant": "Cream Leather, Hide Back",
+        "sku": "50370789",
+        "dimensions": "H30 W36 D33, SH16 SD23, AH28",
+        "page": 40,
+        "flags": [],
+        "image": {
+          "file": "product/p40-x10.png",
+          "w": 1372,
+          "h": 1372
+        }
+      },
+      {
+        "name": "Pear Accent Chair",
+        "variant": "Tufted Black Croc",
+        "sku": "50320004",
+        "dimensions": "H33.5 W33.5 D32, SH20.5 SD22, AH26",
+        "page": 40,
+        "flags": [],
+        "image": {
+          "file": "product/p40-x12.png",
+          "w": 1493,
+          "h": 1493
+        }
+      },
+      {
+        "name": "Carson Accent Chair",
+        "variant": "White Leather, Axis Back",
+        "sku": "50090371",
+        "dimensions": "H34.5 W26 D24 SH19 SD20",
+        "page": 40,
+        "flags": [],
+        "image": {
+          "file": "product/p40-x9.png",
+          "w": 1447,
+          "h": 1447
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 41,
+    "products": [
+      {
+        "name": "Hugh Accent Chair",
+        "variant": "Brown Leather/Hide",
+        "sku": "50784222",
+        "dimensions": null,
+        "page": 41,
+        "flags": [],
+        "image": {
+          "file": "product/p41-x10.png",
+          "w": 1768,
+          "h": 1768
+        }
+      },
+      {
+        "name": "Weston Accent Chair",
+        "variant": "White Croc",
+        "sku": "50538003",
+        "dimensions": null,
+        "page": 41,
+        "flags": [],
+        "image": {
+          "file": "product/p41-x9.png",
+          "w": 1524,
+          "h": 1524
+        }
+      },
+      {
+        "name": "Grace Office Chair",
+        "variant": "Tufted Brown Leather",
+        "sku": "50306101",
+        "dimensions": "H49 W23 D25, SH24 SD21",
+        "page": 41,
+        "flags": [],
+        "image": {
+          "file": "product/p41-x11.png",
+          "w": 1369,
+          "h": 1369
+        }
+      },
+      {
+        "name": "Grace Office Chair",
+        "variant": "Brown Croc Yolk",
+        "sku": "50306102",
+        "dimensions": "H49 W23 D25, SH24 SD21",
+        "page": 41,
+        "flags": [],
+        "image": {
+          "file": "product/p41-x12.png",
+          "w": 1994,
+          "h": 1994
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 42,
+    "products": [
+      {
+        "name": "Horn Office Chair",
+        "variant": "White Croc",
+        "sku": "50405100",
+        "dimensions": "H44.5 W33 D27.5, SH20 SD23, AH28",
+        "page": 42,
+        "flags": [],
+        "image": {
+          "file": "product/p42-x12.png",
+          "w": 1366,
+          "h": 1366
+        }
+      },
+      {
+        "name": "Horn Office Chair",
+        "variant": "Brown Croc",
+        "sku": "50405101",
+        "dimensions": "H44.5 W33 D27.5, SH20 SD23, AH28",
+        "page": 42,
+        "flags": [],
+        "image": {
+          "file": "product/p42-x9.png",
+          "w": 2093,
+          "h": 2093
+        }
+      },
+      {
+        "name": "Arm Grace Office Chair",
+        "variant": "White Croc Yolk",
+        "sku": "50306100",
+        "dimensions": "H49 W23 D25, SH24 SD21",
+        "page": 42,
+        "flags": [],
+        "image": {
+          "file": "product/p42-x10.png",
+          "w": 1675,
+          "h": 1675
+        }
+      },
+      {
+        "name": "Grace Office Chair",
+        "variant": "White Croc Yolk",
+        "sku": "50307100",
+        "dimensions": "H49 W23 D25, SH24 SD21",
+        "page": 42,
+        "flags": [],
+        "image": {
+          "file": "product/p42-x11.png",
+          "w": 1883,
+          "h": 1883
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 43,
+    "products": [
+      {
+        "name": "Santa Fe Sectional",
+        "variant": "Light Brown Leather",
+        "sku": null,
+        "dimensions": "H41 D42in, W of Love Seat 70, W of Sofa 115",
+        "page": 43,
+        "flags": [
+          "missing-sku"
+        ],
+        "image": {
+          "file": "product/p43-x12.png",
+          "w": 2556,
+          "h": 1917
+        }
+      },
+      {
+        "name": "Evangeline Sofa",
+        "variant": "Brown Leather",
+        "sku": null,
+        "dimensions": "H48 W94 D34, SH22 W66 D26, H33.5",
+        "page": 43,
+        "flags": [
+          "missing-sku"
+        ],
+        "image": {
+          "file": "product/p43-x14.png",
+          "w": 2221,
+          "h": 2206
+        }
+      },
+      {
+        "name": "Lion Throne",
+        "variant": null,
+        "sku": null,
+        "dimensions": null,
+        "page": 43,
+        "flags": [
+          "missing-sku"
+        ],
+        "image": {
+          "file": "product/p43-x9.png",
+          "w": 2191,
+          "h": 1643
+        }
+      }
+    ],
+    "editorial": [
+      {
+        "file": "editorial/p43-x11.png",
+        "w": 3154,
+        "h": 2085
+      }
+    ]
+  },
+  {
+    "page": 44,
+    "products": [
+      {
+        "name": "Bootjack",
+        "variant": null,
+        "sku": "55654634",
+        "dimensions": "H4 W10 D14",
+        "page": 44,
+        "flags": [],
+        "image": {
+          "file": "product/p44-x9.png",
+          "w": 1369,
+          "h": 1826
+        }
+      },
+      {
+        "name": "Dog Bed Tufted Chesterfield",
+        "variant": "Brown Croc",
+        "sku": "55743002",
+        "dimensions": null,
+        "page": 44,
+        "flags": [],
+        "image": {
+          "file": "product/p44-x11.png",
+          "w": 1006,
+          "h": 1006
+        }
+      },
+      {
+        "name": "Fufu Dog Bed",
+        "variant": "Taupe",
+        "sku": "55304123",
+        "dimensions": "H25 W32.5 D23",
+        "page": 44,
+        "flags": [],
+        "image": {
+          "file": "product/p44-x15.png",
+          "w": 1686,
+          "h": 1686
+        }
+      },
+      {
+        "name": "Fufu Dog Bed",
+        "variant": "Ivory",
+        "sku": "5530414",
+        "dimensions": "H25 W32.5 D23",
+        "page": 44,
+        "flags": [
+          "sku-not-8-digits:5530414"
+        ],
+        "image": {
+          "file": "product/p44-x13.png",
+          "w": 1581,
+          "h": 1581
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 45,
+    "products": [
+      {
+        "name": "Cube",
+        "variant": null,
+        "sku": "55821421",
+        "dimensions": "H18 W18 D18",
+        "page": 45,
+        "flags": [],
+        "image": {
+          "file": "product/p45-x12.png",
+          "w": 1080,
+          "h": 1350
+        }
+      },
+      {
+        "name": "Vegas Short",
+        "variant": "Brown Croc",
+        "sku": null,
+        "dimensions": "H18 W18 D18",
+        "page": 45,
+        "flags": [
+          "missing-sku"
+        ],
+        "image": {
+          "file": "product/p45-x9.png",
+          "w": 1800,
+          "h": 1800
+        }
+      },
+      {
+        "name": "Vegas Short",
+        "variant": "Brown Hide and Diamond",
+        "sku": "55343454",
+        "dimensions": "H18 W18 D18",
+        "page": 45,
+        "flags": [],
+        "image": {
+          "file": "product/p45-x10.png",
+          "w": 973,
+          "h": 1297
+        }
+      },
+      {
+        "name": "Vegas Tall",
+        "variant": "Brown Croc",
+        "sku": "55344545",
+        "dimensions": "H26 W18 D18",
+        "page": 45,
+        "flags": [],
+        "image": {
+          "file": "product/p45-x11.png",
+          "w": 1076,
+          "h": 1434
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 46,
+    "products": [
+      {
+        "name": "Murphy Ottoman",
+        "variant": "Round Cowboy Copper",
+        "sku": "55356432",
+        "dimensions": "H21 D43",
+        "page": 46,
+        "flags": [],
+        "image": {
+          "file": "product/p46-x11.png",
+          "w": 2016,
+          "h": 1134
+        }
+      },
+      {
+        "name": "Murphy Ottoman",
+        "variant": "Round Springbuck",
+        "sku": "55356431",
+        "dimensions": "H21 D43",
+        "page": 46,
+        "flags": [],
+        "image": {
+          "file": "product/p46-x10.png",
+          "w": 1400,
+          "h": 1400
+        }
+      },
+      {
+        "name": "Jack Square Ottoman",
+        "variant": "Taupe, Cowboy Tool",
+        "sku": "55355431",
+        "dimensions": "H20 W37 D37",
+        "page": 46,
+        "flags": [],
+        "image": {
+          "file": "product/p46-x9.png",
+          "w": 1144,
+          "h": 1144
+        }
+      },
+      {
+        "name": "Jack Square Ottoman",
+        "variant": "Brown Hide",
+        "sku": "55355430",
+        "dimensions": "H20 W37 D37",
+        "page": 46,
+        "flags": [],
+        "image": {
+          "file": "product/p46-x13.png",
+          "w": 1581,
+          "h": 1581
+        }
+      }
+    ],
+    "editorial": []
+  },
+  {
+    "page": 47,
+    "products": [],
+    "editorial": [
+      {
+        "file": "editorial/p47-x9.png",
+        "w": 2506,
+        "h": 1354
+      },
+      {
+        "file": "editorial/p47-x15.png",
+        "w": 1200,
+        "h": 1650
+      }
+    ]
+  },
+  {
+    "page": 48,
+    "products": [],
+    "editorial": [
+      {
+        "file": "editorial/p48-x11.png",
+        "w": 1080,
+        "h": 1350
+      }
+    ]
+  }
+]
