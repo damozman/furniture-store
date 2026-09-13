@@ -12,13 +12,18 @@ Outputs:
 import difflib
 import json
 import re
+import sys
 import xml.etree.ElementTree as ET
 import zipfile
 from collections import defaultdict
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parent.parent / "out"
-PRICE_XLSX = Path(r"C:\Users\chris\Downloads\TBS Price List by Product.xlsx")
+DATA = Path(__file__).resolve().parent.parent
+OUT = DATA / "out"
+# The price list lives in data/source/ beside the catalog (gitignored).
+# Usage: build_products.py [price_list.xlsx]
+PRICE_XLSX = (Path(sys.argv[1]) if len(sys.argv) > 1
+              else DATA / "source" / "TBS Price List by Product.xlsx")
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 
 HIDES = [

@@ -16,8 +16,11 @@ from pathlib import Path
 
 import pymupdf
 
-SRC = Path(sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\chris\Downloads\Catalog")
-OUT = Path(__file__).resolve().parent.parent / "out"
+DATA = Path(__file__).resolve().parent.parent
+# Client source material lives in data/source/ (gitignored: too large for git, and
+# not ours to publish). Usage: extract_catalog.py [catalog_dir] [out_dir]
+SRC = Path(sys.argv[1]) if len(sys.argv) > 1 else DATA / "source" / "Catalog"
+OUT = Path(sys.argv[2]) if len(sys.argv) > 2 else DATA / "out"
 IMG_PROD = OUT / "images" / "product"
 IMG_EDIT = OUT / "images" / "editorial"
 
@@ -195,6 +198,10 @@ def main():
 
     pdfs = sorted(SRC.glob("page*.pdf"),
                   key=lambda p: int(re.search(r"\d+", p.stem).group()))
+    if not pdfs:
+        # Without this, a missing data/source/ overwrites catalog.json with an empty
+        # catalogue -- and the site builds from that file.
+        sys.exit(f"No page*.pdf files in {SRC}. Source material lives in data/source/; see CLAUDE.md.")
     for pdf in pdfs:
         num = int(re.search(r"\d+", pdf.stem).group())
         doc = pymupdf.open(pdf)

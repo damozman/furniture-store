@@ -1,4 +1,4 @@
-﻿# Node / Next.js
+# Node / Next.js
 web/node_modules/
 web/.next/
 web/out/
@@ -8,13 +8,24 @@ web/.vercel
 web/*.tsbuildinfo
 web/next-env.d.ts
 
-# Python / data side
+# Python
 data/.venv/
-data/__pycache__/
-data/*.pyc
+__pycache__/
+*.pyc
 data/.pytest_cache/
-data/out/
 data/.mypy_cache/
+
+# Client source material: catalog PDFs and the price list. Too large for git
+# (GitHub rejects files over 100 MB) and not ours to publish. See CLAUDE.md.
+data/source/
+
+# Pipeline outputs. The JSON/Markdown outputs stay tracked because the site builds
+# from them; extracted images and the contact sheet are regenerable from data/source/.
+data/out/images/
+data/out/contact-sheet.html
+
+# Dev lead-capture sink — holds names and email addresses.
+data/out/leads.jsonl
 
 # OS / editor
 .DS_Store
