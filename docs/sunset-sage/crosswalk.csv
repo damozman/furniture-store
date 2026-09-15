@@ -1,0 +1,99 @@
+ss_row,ss_item,ss_qty,ss_price,ss_photo,match,sku,catalog_name,catalog_hide,catalog_price,catalog_category,notes
+2,Vegas Stool,160,375.0,images/vegas-stool.png,high,55343454,Vegas,Short,400.0,ottomans,Vegas Short — hourglass stool | 400 on master vs 375 at Sunset Sage
+3,Saddle barstool,100,350.0,images/saddle-barstool.png,medium,30400123,Saddle,Brown Hide,300.0,bar-stools,Generic brown mix; mapped to Saddle Brown Hide. Confirm. | 300 on master vs 350 at Sunset Sage
+4,Vegas Barstool,72,500.0,images/vegas-barstool.png,high,55344545,Vegas,Tall,500.0,ottomans,Vegas Tall — hourglass bar height
+5,Saddle barstool Ivory floral,64,350.0,images/saddle-barstool-ivory-floral.png,high,30400238,Saddle,Ivory Leaf,300.0,bar-stools,Ivory Leaf (sheet said floral) | 300 on master vs 350 at Sunset Sage
+6,Saddle barstool Dark Croc,58,350.0,images/saddle-barstool-dark-croc.png,high,30400002,Saddle,Brown Croc,300.0,bar-stools,Catalog hide is Brown Croc | 300 on master vs 350 at Sunset Sage
+7,Smith barstool,56,200.0,images/smith-barstool.png,medium,30450001,Smith,Tufted Brown,150.0,bar-stools,Generic Smith; mapped to Tufted Brown | 150 on master vs 200 at Sunset Sage
+8,Trophy barstool White croc,47,550.0,images/trophy-barstool-white-croc.png,medium,30102003,Trophy,White Croc,650.0,bar-stools,Trophy 2 White Croc — not the tufted corset | 650 on master vs 550 at Sunset Sage
+9,Brooke dining chairs brown with hide back,45,500.0,images/brooke-dining-chairs-brown-with-hide-back.png,high,10220789,Brooke,"Brown, Hide",600.0,dining-chairs,600 on master vs 500 at Sunset Sage
+10,Kennedy barstool Dark brown diamond leather hide back,43,600.0,images/kennedy-barstool-dark-brown-diamond-leather-hide-back.png,high,30810276,Kennedy,Brown diamond Leather,550.0,bar-stools,Brown diamond leather; hide back on photo | 550 on master vs 600 at Sunset Sage
+11,Marlo barstool Cowhide,37,450.0,images/marlo-barstool-cowhide.png,high,30217165,Marlo,New Cow Brindle Hide,350.0,bar-stools,New Cow Brindle Hide | 350 on master vs 450 at Sunset Sage
+12,Saddle barstool Cowhide,35,350.0,images/saddle-barstool-cowhide.png,medium,30400123,Saddle,Brown Hide,300.0,bar-stools,Cowhide; also used for generic brown mix row 3 | 300 on master vs 350 at Sunset Sage
+13,Saddle barstool Diamond,35,350.0,images/saddle-barstool-diamond.png,high,30400099,Saddle,Diamond,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+14,Brooke dining chairs black with hide back,35,500.0,images/brooke-dining-chairs-black-with-hide-back.png,high,10220790,Brooke,"Black, Hide",600.0,dining-chairs,600 on master vs 500 at Sunset Sage
+15,Saddle barstool Valentina Tawny Light gold,34,350.0,images/saddle-barstool-valentina-tawny-light-gold.png,high,30400725,Saddle,Valentina Tawny Light,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+16,Saddle barstool Red Floral,34,350.0,images/saddle-barstool-red-floral.png,high,30400234,Saddle,Red leaf floral,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+17,Serena dining chair Black leather,33,500.0,images/serena-dining-chair-black-leather.png,high,11646222,Serena,Dark,600.0,dining-chairs,Serena Dark | 600 on master vs 500 at Sunset Sage
+18,Lynn dining chair dark croc,33,600.0,images/lynn-dining-chair-dark-croc.png,high,11507002,Lynn,Brown croc,500.0,dining-chairs,Lynn Brown croc | 500 on master vs 600 at Sunset Sage
+19,Saddle barstool Turquoise Croc,31,350.0,images/saddle-barstool-turquoise-croc.png,high,30400137,Saddle,Turquoise Croc,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+20,Kennedy barstool Brown croc front Hide back,30,600.0,images/kennedy-barstool-brown-croc-front-hide-back.png,medium,30810277,Kennedy,"Brown leather, hide back",550.0,bar-stools,"Closest Kennedy: brown leather, hide back (not named croc) | 550 on master vs 600 at Sunset Sage"
+21,Saddle barstool Copper Cowboy Rose flower,27,350.0,images/saddle-barstool-copper-cowboy-rose-flower.png,high,30400240,Saddle,Copper Rose,300.0,bar-stools,Copper Rose | 300 on master vs 350 at Sunset Sage
+22,"Stanley Accent chair, brown diamond with Hide back",27,1500.0,images/stanley-accent-chair-brown-diamond-with-hide-back.png,high,50213087,Stanley,"Brown, Diamond, Flower Stitch",1300.0,accent-chairs,"Brown, Diamond, Flower Stitch | 1300 on master vs 1500 at Sunset Sage"
+23,Trophy barstool Dark croc,25,550.0,images/trophy-barstool-dark-croc.png,high,30103002,Trophy,Brown Croc,650.0,bar-stools,Trophy 3 Brown Croc | 650 on master vs 550 at Sunset Sage
+24,Waller accent chair Brown Tufted Hide back,24,1500.0,images/waller-accent-chair-brown-tufted-hide-back.png,high,50750001,Waller,"Brown Tufted, hide back",1300.0,accent-chairs,1300 on master vs 1500 at Sunset Sage
+25,"Scott Barstool black 25""",24,400.0,,new,,,,,,Scott line not on master sheet
+26,"Scott Barstool brown 25""",24,400.0,images/scott-barstool-brown-25.png,new,,,,,,Scott line not on master sheet
+27,"Scott Barstool camel 25""",24,400.0,,new,,,,,,Scott line not on master sheet
+28,Smith barstool tufted white croc,23,200.0,images/smith-barstool-tufted-white-croc.png,review,,,,,,Smith tufted white croc — catalog photo SKU 30190002 is not on the master
+29,Saddle barstool Turquoise Leaf,22,350.0,images/saddle-barstool-turquoise-leaf.png,high,30400237,Saddle,Turquoise Leaf,300.0,bar-stools,Turquoise Leaf (not Floral) | 300 on master vs 350 at Sunset Sage
+30,Trophy barstool tufted blue,21,550.0,images/trophy-barstool-tufted-blue.png,high,30103016,Trophy,Tufted Blue,650.0,bar-stools,650 on master vs 550 at Sunset Sage
+31,Dakota dining chair Brown front hide back,21,500.0,images/dakota-dining-chair-brown-front-hide-back.png,new,,,,,,Dakota only has Black Hide on the master; this is brown hide
+32,Saddle barstool Valentina Toffee Dark,20,350.0,images/saddle-barstool-valentina-toffee-dark.png,high,30400724,Saddle,Valentina Toffee Dark,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+33,Saddle bastool white croc,20,350.0,images/saddle-bastool-white-croc.png,high,30400003,Saddle,White Croc,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+34,Dakota dining chair Black front hide back,19,500.0,images/dakota-dining-chair-black-front-hide-back.png,high,10836088,Dakota,"Black, Hide",600.0,n,Only Dakota SKU on the master | 600 on master vs 500 at Sunset Sage
+35,Trophy barstool White Croc Striated leather,18,550.0,images/trophy-barstool-white-croc-striated-leather.png,high,30102013,Trophy,White Croc Weave Brown,650.0,bar-stools,White Croc Weave Brown | 650 on master vs 550 at Sunset Sage
+36,Brooke dining chair White leather with Salt Pepper Hide back,18,500.0,images/brooke-dining-chair-white-leather-with-salt-pepper-hide-back.png,high,10220791,Brooke,"White, Black & White Hide",600.0,dining-chairs,"White, Black & White Hide | 600 on master vs 500 at Sunset Sage"
+37,Bethany  barstool No arms Brown croc,18,550.0,images/bethany-barstool-no-arms-brown-croc.png,high,30311002,Bethany,Top No Arms Brown Croc,650.0,bar-stools,650 on master vs 550 at Sunset Sage
+38,Saddle barstool Turquoise Floral,18,350.0,images/saddle-barstool-turquoise-floral.png,high,30400236,Saddle,Turquoise Floral,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+39,Smith barstool tufted brown croc,16,200.0,images/smith-barstool-tufted-brown-croc.png,high,30450003,Smith,Tufted Brown Croc,150.0,bar-stools,150 on master vs 200 at Sunset Sage
+40,Saddle barstool Loredo Brown,15,350.0,images/saddle-barstool-loredo-brown.png,high,30400241,Saddle,Laredo Brown,300.0,bar-stools,Laredo Brown | 300 on master vs 350 at Sunset Sage
+41,Kennedy barstool Turquoise croc spine with hide back,14,600.0,images/kennedy-barstool-turquoise-croc-spine-with-hide-back.png,high,30810640,Kennedy,Turquoise Croc hide back,550.0,bar-stools,550 on master vs 600 at Sunset Sage
+42,Kennedy barstool Valentina Dark toffee,14,600.0,images/kennedy-barstool-valentina-dark-toffee.png,high,30810638,Kennedy,Valentina Dark Toffee,550.0,bar-stools,550 on master vs 600 at Sunset Sage
+43,Saddle barstool Black croc,14,350.0,images/saddle-barstool-black-croc.png,new,,,,,,Saddle Black Croc not on master
+44,Brooke dining chair White leather with tri color hide back with nail head,14,500.0,images/brooke-dining-chair-white-leather-with-tri-color-hide-back-with-nail-head.png,medium,10220791,Brooke,"White, Black & White Hide",600.0,dining-chairs,Tri-color with nailhead — confirm vs salt-and-pepper white | 600 on master vs 500 at Sunset Sage
+45,Arc accent chair brown Oliva cowhide back,12,1500.0,images/arc-accent-chair-brown-oliva-cowhide-back.png,new,,,,,,Arc chair not on master
+46,Grace dining chair Brown croc,11,550.0,images/grace-dining-chair-brown-croc.png,high,11308002,Grace,Brown Croc,650.0,dining-chairs,Grace 2 Brown Croc | 650 on master vs 550 at Sunset Sage
+47,Wilson barstool tufted brown,11,500.0,images/wilson-barstool-tufted-brown.png,high,30110048,Wilson,Tufted Brown,500.0,bar-stools,
+48,Saddle barstool Blue,11,350.0,images/saddle-barstool-blue.png,high,30400242,Saddle,Blue,300.0,bar-stools,Saddle Top Blue (not Blue Croc) | 300 on master vs 350 at Sunset Sage
+49,Trophy barstool Green grey tufted,11,550.0,images/trophy-barstool-green-grey-tufted.png,high,30103050,Trophy,"Green, Gray Tufted",650.0,bar-stools,650 on master vs 550 at Sunset Sage
+50,Grace dining chair Axis back brown croc front,10,1000.0,images/grace-dining-chair-axis-back-brown-croc-front.png,high,11307130,Grace,Axis,1000.0,dining-chairs,Grace Axis — price $1000 matches
+51,Trophy bastool Tufted Mocha Brown,10,550.0,images/trophy-bastool-tufted-mocha-brown.png,medium,30103015,Trophy,Tufted Medium Brown Leather,650.0,bar-stools,Trophy 3 Tufted Medium Brown — mocha | 650 on master vs 550 at Sunset Sage
+52,Brooke dining white with Tri color no nailhead,10,500.0,images/brooke-dining-white-with-tri-color-no-nailhead.png,medium,10220791,Brooke,"White, Black & White Hide",600.0,dining-chairs,Tri-color no nailhead — confirm vs row 44 | 600 on master vs 500 at Sunset Sage
+53,Maverick dining chair front Dark croc back Baroque,10,700.0,images/maverick-dining-chair-front-dark-croc-back-baroque.png,high,11207007,Maverick,Croc & Damask Print hide back,700.0,dining-chairs,Croc & Damask / Baroque
+54,Weston accent chair White croc trim,9,1500.0,images/weston-accent-chair-white-croc-trim.png,high,50538003,Weston,Brown with White croc trim,1300.0,accent-chairs,1300 on master vs 1500 at Sunset Sage
+55,Bethany barstool No arms Diamond back,9,550.0,images/bethany-barstool-no-arms-diamond-back.png,high,30311004,Bethany,No Arms Diamond,600.0,bar-stools,600 on master vs 550 at Sunset Sage
+56,Chelsea barstool,9,700.0,images/chelsea-barstool.png,new,,,,,,Chelsea not on master
+57,Horn office chair Dark croc,8,1500.0,images/horn-office-chair-dark-croc.png,high,50405101,Horn,Brown Croc,1300.0,office-chairs,Horn Brown Croc | 1300 on master vs 1500 at Sunset Sage
+58,Bethany barstool No arms Loredo back,8,550.0,images/bethany-barstool-no-arms-loredo-back.png,high,30311005,Bethany,No Arms Loredo,600.0,bar-stools,600 on master vs 550 at Sunset Sage
+59,Saddle barstool Red croc,7,350.0,images/saddle-barstool-red-croc.png,high,30400235,Saddle,Red Croc,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+60,Smith barstool Tufted Valentina Tawny,7,200.0,,high,30450724,Smith,Tufted Valentina Tawny,150.0,bar-stools,150 on master vs 200 at Sunset Sage
+61,Horn Office chair Tufted Brown,7,1500.0,images/horn-office-chair-tufted-brown.png,new,,,,,,Horn tufted brown not on master
+62,Pearl Accent Chair Springbuck hide back,6,1600.0,images/pearl-accent-chair-springbuck-hide-back.png,high,50320130,Pearl,Axis Hide,1500.0,accent-chairs,Pearl Axis / Springbuck hide | 1500 on master vs 1600 at Sunset Sage
+63,Saddle barstool Turquoise Cowboy,6,350.0,images/saddle-barstool-turquoise-cowboy.png,high,30400769,Saddle,Turquoise Cowboy,300.0,bar-stools,300 on master vs 350 at Sunset Sage
+64,Bethany barstool Brown Hide No Arms,5,550.0,images/bethany-barstool-brown-hide-no-arms.png,medium,30310123,Bethany,Brown Hide,650.0,bar-stools,Bethany Brown Hide — no-arms not explicit on master | 650 on master vs 550 at Sunset Sage
+65,Bethany tooled WITH arms LOREDO,5,600.0,images/bethany-tooled-with-arms-loredo.png,new,,,,,,Bethany with arms Loredo — master Loredo is no-arms
+66,"Easton Accent Cream Leather, White & Black Hide P",5,1000.0,images/easton-accent-cream-leather-white-black-hide-p.png,high,50412789,Easton,"Cream Leather, White & Black Hide",1500.0,accent-chairs,1500 on master vs 1000 at Sunset Sage
+67,Brooke Black Barstool,4,400.0,,new,,,,,,Brooke barstool (not dining)
+68,Trophy barstool Navy Blue Dark Croc full front,4,500.0,images/trophy-barstool-navy-blue-dark-croc-full-front.png,medium,30103002,Trophy,Brown Croc,650.0,bar-stools,Navy / dark croc full front — confirm vs Trophy 3 Brown Croc | 650 on master vs 500 at Sunset Sage
+69,Bethany barstool With arms Springbuck,4,700.0,images/bethany-barstool-with-arms-springbuck.png,new,,,,,,Bethany with arms Springbuck not on master
+70,Brooke Brown Barstool,4,400.0,,medium,11111,Brooke,Brown,600.0,bar-stools,Placeholder SKU Brooke Brown Barstool | 600 on master vs 400 at Sunset Sage
+71,Horn office chair white croc,3,1500.0,images/horn-office-chair-white-croc.png,high,50405100,Horn,White Croc,1300.0,office-chairs,1300 on master vs 1500 at Sunset Sage
+72,Grace dining chair brown croc,3,550.0,images/grace-dining-chair-brown-croc.png,high,11308002,Grace,Brown Croc,650.0,dining-chairs,Same SKU as row 46 (two qty lots) | 650 on master vs 550 at Sunset Sage
+73,Grace Armless Office chair white croc,3,1000.0,images/grace-armless-office-chair-white-croc.png,medium,50307100,Grace,White Yolk,1250.0,office-chairs,Grace Office Chair White Yolk — armless | 1250 on master vs 1000 at Sunset Sage
+74,Trophy barstool tufted Camel,3,550.0,images/trophy-barstool-tufted-camel.png,high,30102014,Trophy,Light Caramel,650.0,bar-stools,Trophy 2 Light Caramel | 650 on master vs 550 at Sunset Sage
+75,Grace arm Office chair tufted,3,1400.0,images/grace-arm-office-chair-tufted.png,high,50306101,Grace,Arm Tufted Office Chair,1300.0,office-chairs,Grace Arm Tufted Office Chair | 1300 on master vs 1400 at Sunset Sage
+76,Trophy barstool Dark croc,3,550.0,images/trophy-barstool-dark-croc.png,high,30103002,Trophy,Brown Croc,650.0,bar-stools,Same Trophy 3 Brown Croc as row 23 | 650 on master vs 550 at Sunset Sage
+77,Grace dining chair Turquoise croc,3,550.0,images/grace-dining-chair-turquoise-croc.png,high,11307637,Grace,Turquoise Croc,650.0,dining-chairs,650 on master vs 550 at Sunset Sage
+78,Jack Ottoman Cowhide turquoise trim,2,1200.0,images/jack-ottoman-cowhide-turquoise-trim.png,new,,,,,,Jack cowhide + turquoise trim not on master
+79,Half moon tufted ottoman,2,500.0,images/half-moon-tufted-ottoman.png,new,,,,,,Half-moon ottoman not on master
+80,Pearl accent chair Cowhide,2,1600.0,images/pearl-accent-chair-cowhide.png,medium,50320130,Pearl,Axis Hide,1500.0,accent-chairs,Pearl cowhide — may be same as Axis/Springbuck | 1500 on master vs 1600 at Sunset Sage
+81,Texas King Bed,2,5000.0,images/texas-king-bed.png,new,,,,,,Texas King Bed not on master
+82,Waller accent chair black no tufted,2,1500.0,images/waller-accent-chair-black-no-tufted.png,medium,50370267,Waller,,1300.0,accent-chairs,Waller generic SKU (empty hide on master) | 1300 on master vs 1500 at Sunset Sage
+83,Antoinette Accent chair dark croc front hide back,2,1600.0,images/antoinette-accent-chair-dark-croc-front-hide-back.png,high,50701836,Antoinette,"Brown Croc Front, Dark Brindle hide back",1699.0,accent-chairs,"Brown Croc front, Dark Brindle hide back | 1699 on master vs 1600 at Sunset Sage"
+84,Bethany barstool Brown hide with arms,2,600.0,images/bethany-barstool-brown-hide-with-arms.png,medium,30310123,Bethany,Brown Hide,650.0,bar-stools,Bethany Brown Hide with arms — confirm vs no-arms row 64 | 650 on master vs 600 at Sunset Sage
+85,Lynn dining chair turquoise croc,2,600.0,images/lynn-dining-chair-turquoise-croc.png,high,11507005,Lynn,Turquoise Croc,500.0,dining-chairs,500 on master vs 600 at Sunset Sage
+86,Murphy round ottoman,2,1000.0,images/murphy-round-ottoman.png,medium,55356430,Murphy,"Round 37""",1500.0,ottomans,"Murphy Round 37"" — size not on SS row | 1500 on master vs 1000 at Sunset Sage"
+87,Britney accent chair brown diamnond,2,1600.0,images/britney-accent-chair-brown-diamnond.png,high,50763099,Britney,"Diamond, Weave",1599.0,accent-chairs,Britney Diamond Weave | 1599 on master vs 1600 at Sunset Sage
+88,Murphy round ottoman Taupe,2,1000.0,images/murphy-round-ottoman-taupe.png,medium,55356431,Murphy,"Round 43""",1500.0,ottomans,"Murphy Round 43"" taupe — size assumed | 1500 on master vs 1000 at Sunset Sage"
+89,Antoinette Accent chair Diamond front,2,1600.0,images/antoinette-accent-chair-diamond-front.png,high,50701099,Antoinette,Diamond Weave,1699.0,accent-chairs,1699 on master vs 1600 at Sunset Sage
+90,Kennedy barstool Brown white floral,2,600.0,images/kennedy-barstool-brown-white-floral.png,high,30810088,Kennedy,Brown & White Floral,550.0,bar-stools,550 on master vs 600 at Sunset Sage
+91,Grace dining chair tufted front back cowhide,20,500.0,images/grace-dining-chair-tufted-front-back-cowhide.png,high,11307973,Grace,Tufted Front Cowhide Back,650.0,dining-chairs,650 on master vs 500 at Sunset Sage
+92,Murphy ottoman taupe,1,1000.0,images/murphy-ottoman-taupe.png,medium,55356420,Murphy,Springbuck,1500.0,ottomans,Murphy Springbuck / taupe ottoman | 1500 on master vs 1000 at Sunset Sage
+93,Pearl accent chair White croc,1,1600.0,images/pearl-accent-chair-white-croc.png,high,50320003,Pearl,White Croc,1500.0,accent-chairs,1500 on master vs 1600 at Sunset Sage
+94,Jack ottoman rectangle cowhide,1,1200.0,images/jack-ottoman-rectangle-cowhide.png,high,55355430,Jack Square,Jack Rectangle Ottoman,1200.0,ottomans,Jack Rectangle
+95,Hugh accent chair,1,1500.0,images/hugh-accent-chair.png,high,50784222,Hugh,"Brown Leather, Hide",1500.0,accent-chairs,Only Hugh on master
+96,Antoinette accent chair Brindle hide front back croc,1,1600.0,images/antoinette-accent-chair-brindle-hide-front-back-croc.png,high,50701835,Antoinette,"Dark Brindle Hide Front, Brown Croc Back",1699.0,accent-chairs,"Brindle hide front, Brown Croc back | 1699 on master vs 1600 at Sunset Sage"
+97,Easton Accent Caramel Leather,1,1000.0,images/easton-accent-caramel-leather.png,high,50412790,Easton,Caramel Leather,1500.0,accent-chairs,1500 on master vs 1000 at Sunset Sage
+98,"Jack ottoman 42"" cowboy tool with hide top",1,1200.0,images/jack-ottoman-42-cowboy-tool-with-hide-top.png,high,55355431,Jack Square,"Jack Taupe, Cowboy Tool Ottoman",1200.0,ottomans,Jack Taupe Cowboy Tool
+99,Dakota dining chair Taupe,1,500.0,,new,,,,,,Dakota Taupe not on master
