@@ -24,6 +24,12 @@ data/source/
 data/out/images/
 data/out/contact-sheet.html
 
+# Inventory workbooks with photos embedded in the cells. Extract first with
+# data/scripts/extract_xlsx_images.py, then commit docs/sunset-sage/ instead.
+*inventory*.xlsx
+*Sunset Sage*.xlsx
+*sunset*sage*.xlsx
+
 # Dev lead-capture sink — holds names and email addresses.
 data/out/leads.jsonl
 
