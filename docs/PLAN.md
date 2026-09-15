@@ -156,20 +156,18 @@ home, category and model pages; real iPad/iPhone testing (the buyer skews there)
 
 ## Questions for the owner
 
-Full tables are in `data/out/review.md`.
+**Catalog data** lives in `docs/Furniture Information Sheet.xlsx`, tab **To complete**.
+Sunset Sage inventory is already mapped onto that sheet (on-hand, photos, new rows).
+Do not re-import the Sage workbook.
 
-**Data**
-- **6 invalid SKUs** need real numbers: `11111` (Brooke), `000001`/`00002`/`00003` (Levi),
-  `123456` (Murphy springbok), and `3 Piece Sectional` sitting in the SKU column (Santa Fe).
-- **7 legacy "OLD" rows** (Bethany ×1, Marlo Old ×6). The plan is a clearance tier. Confirm, and
-  supply photos.
-- **10 catalogue SKUs missing from the price list.** Check each one. The report's automatic
-  typo/unpriced split is unreliable in both directions. It calls Bethany `30310003` and Murphy
-  `55356432` typos, though they name different variants. It calls Trophy `3010350` and
-  `30102106` unpriced, though they look like one-digit typos of `30103050` and `30102016`.
-- **55 priced SKUs with no photo.** Antoinette is the most valuable gap.
-- **Height availability matrix:** which models come in bar, counter or both. This unlocks the selector.
-- **Categories for Levi and Santa Fe.**
+Remaining data work, in order:
+
+1. Confirm **medium** matches (hide is close, not exact).
+2. Assign real SKUs to **NEW-*** rows (Scott, Chelsea, Arc, Texas King Bed, etc.).
+3. Confirm Smith white croc SKU `30190002`.
+4. Price policy where Sunset Sage and the master disagree.
+5. Replace placeholder SKUs: `11111` (Brooke), Levi `000001`/`00002`/`00003`, Murphy `123456`, `SANTA-FE`.
+6. Smith cost (four rows). Legacy “OLD” Marlo / Bethany rows still need a clearance decision.
 
 **Policy** (currently "To confirm" on the site)
 - Delivery levels offered and how each is priced; typical lead times, in-stock vs made-to-order.
