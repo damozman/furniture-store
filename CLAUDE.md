@@ -12,7 +12,7 @@ web/          Next.js 16 storefront — the app
 data/scripts/ pipeline: catalogue PDFs + price list → product data
 data/out/     pipeline output; products.json is what the site builds from
 data/source/  client source material — gitignored, not in the repo (see below)
-docs/Furniture Information Sheet.xlsx  live catalog master (on-hand, photos, what is left)
+docs/Furniture Information Sheet.xlsx  product sheet (Start here / Your work / All products)
 docs/sunset-sage/images/               tagged inventory photos (already mapped onto the master)
 docs/PLAN.md  strategy, decisions, open policy questions
 ```

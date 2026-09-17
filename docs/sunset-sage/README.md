@@ -1,5 +1,4 @@
-Tagged inventory photos. Already mapped onto
-`docs/Furniture Information Sheet.xlsx`.
+Tagged inventory photos. Already mapped onto the product sheet.
 
-Do not commit the original Sunset Sage workbook (GitHub 100 MB limit).
-Do not re-import it. Work the **To complete** tab on the master sheet.
+Work `docs/Furniture Information Sheet.xlsx` — Start here, then Your work.
+Do not commit or re-open the original Sunset Sage workbook.

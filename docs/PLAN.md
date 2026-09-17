@@ -156,18 +156,9 @@ home, category and model pages; real iPad/iPhone testing (the buyer skews there)
 
 ## Questions for the owner
 
-**Catalog data** lives in `docs/Furniture Information Sheet.xlsx`, tab **To complete**.
-Sunset Sage inventory is already mapped onto that sheet (on-hand, photos, new rows).
+**Catalog data** lives in `docs/Furniture Information Sheet.xlsx`.
+Three tabs only: **Start here** (instructions + legend), **Your work** (yellow boxes), **All products** (lookup).
 Do not re-import the Sage workbook.
-
-Remaining data work, in order:
-
-1. Confirm **medium** matches (hide is close, not exact).
-2. Assign real SKUs to **NEW-*** rows (Scott, Chelsea, Arc, Texas King Bed, etc.).
-3. Confirm Smith white croc SKU `30190002`.
-4. Price policy where Sunset Sage and the master disagree.
-5. Replace placeholder SKUs: `11111` (Brooke), Levi `000001`/`00002`/`00003`, Murphy `123456`, `SANTA-FE`.
-6. Smith cost (four rows). Legacy “OLD” Marlo / Bethany rows still need a clearance decision.
 
 **Policy** (currently "To confirm" on the site)
 - Delivery levels offered and how each is priced; typical lead times, in-stock vs made-to-order.
